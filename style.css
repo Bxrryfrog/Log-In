@@ -27,12 +27,12 @@ body {
 }
 
 .reg {
-   float: left;
+   float: right;
    color: #8032E4;
    background:white;
 }
 .log {
-   float: right;
+   float: left;
    background: #8032E4;
    color: white;
 }
@@ -105,3 +105,4 @@ background:#ebebeb;
 input::placeholder {
 color: white;
 }
+
